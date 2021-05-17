@@ -1,0 +1,16 @@
+Category,FSI score*,Brackets (2016),2015–2016 color,2005–2014 color
+Alert,90.0–120.0,"Very high: 110+
+High: 100–109.9
+
+Alert: 90–99.9",Red Red,Red Red
+Warning,60.0–89.9,"High: 80–89.9
+Warning: 70–79.9
+
+Low: 60–69.9",yellow Yellow orange -Orange,orange Orange
+Stable,30.0–59.9,"Less stable: 50–59.9
+Stable: 40–49.9
+
+More stable: 30–39.9",Green Green,yellow Yellow
+Sustainable,0.0–29.9,"Sustainable: 20–29.9
+Very sustainable: 0–19.9",blue Blue,Green Green
+Not assessed,N/A,—,Gray Light gray,Gray Light gray
